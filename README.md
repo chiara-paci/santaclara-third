@@ -3,8 +3,8 @@
 Santa Clara Third is a Django app containg all static third parties
 files common to all Santa Clara applications:
 - Font Awesome: http://fortawesome.github.io/Font-Awesome/
-- JQuery: http://jquery.com
-- JQuery UI: http://jqueryui.com
+- JQuery: http://jquery.com/
+- JQuery UI: http://jqueryui.com/
 
 1. Build package:
    ```
