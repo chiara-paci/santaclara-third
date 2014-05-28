@@ -1,0 +1,51 @@
+Font Awesome 
+============
+
+by Dave Gandy - http://fontawesome.io
+
+Font License
+
+    Applies to all desktop and webfont files in the following
+    directory: fonts/font-awesome*.
+    License: SIL OFL 1.1
+    URL: http://scripts.sil.org/OFL
+
+Code License
+
+    Applies to all CSS and LESS files in the following directories:
+    css/font-awesome*
+    License: MIT License
+    URL: http://opensource.org/licenses/mit-license.html
+
+Documentation License
+
+    Applies to all Font Awesome project files that are not a part of
+    the Font or Code licenses.
+    License: CC BY 3.0
+    URL: http://creativecommons.org/licenses/by/3.0/
+
+Brand Icons
+
+    All brand icons are trademarks of their respective owners.
+
+    The use of these trademarks does not indicate endorsement of the
+    trademark holder by Font Awesome, nor vice versa.
+
+JQuery/JQuery UI
+================
+
+by JQuery Foundation
+
+Source Code
+
+    jQuery projects are released under the terms of the MIT license.
+
+    URL: http://opensource.org/licenses/mit-license.html
+
+    The MIT License is simple and easy to understand and it places
+    almost no restrictions on what you can do with a jQuery project.
+
+    You are free to use any jQuery project in any other project (even
+    commercial projects) as long as the copyright header is left
+    intact.
+
