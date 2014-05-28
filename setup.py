@@ -8,7 +8,7 @@ os.chdir(os.path.normpath(os.path.join(os.path.abspath(__file__), os.pardir)))
 
 setup(
     name='santaclara_third',
-    version='0.2.1',
+    version='0.2.2',
     packages=['santaclara_third'],
     include_package_data=True,
     license='GNU General Public License v3 or later (GPLv3+)',  # example license
@@ -17,6 +17,12 @@ setup(
     url='http://www.gianoziaorientale.org/software/',
     author='Gianozia Orientale',
     author_email='chiara@gianziaorientale.org',
+    package_data={'santaclara_third': [
+            'static/css/*.css',
+            'static/css/images/*',
+            'static/fonts/*',
+            'static/js/*',
+            ]},
     classifiers=[
         'Environment :: Web Environment',
         'Framework :: Django',
