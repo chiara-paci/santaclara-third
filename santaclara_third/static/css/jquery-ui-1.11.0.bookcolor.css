@@ -829,142 +829,142 @@ body .ui-tooltip {
 
 /* Component containers
 ----------------------------------*/
-bookcolor .ui-widget {
+.bookcolor .ui-widget {
 	font-family: DidactGotic,Helvetica,Arial,FreeSans,sans-serif;
 	font-size: 11pt;
 }
-bookcolor .ui-widget .ui-widget {
+.bookcolor .ui-widget .ui-widget {
 	font-size: 1em;
 }
-bookcolor .ui-widget input,
-bookcolor .ui-widget select,
-bookcolor .ui-widget textarea,
-bookcolor .ui-widget button {
+.bookcolor .ui-widget input,
+.bookcolor .ui-widget select,
+.bookcolor .ui-widget textarea,
+.bookcolor .ui-widget button {
 	font-family: DidactGotic,Helvetica,Arial,FreeSans,sans-serif;
 	font-size: 1em;
 }
-bookcolor .ui-widget-content {
+.bookcolor .ui-widget-content {
 	border: 1px solid #B2A63F;
 	background: #ffffff url("images/ui-bg_flat_75_ffffff_40x100.png") 50% 50% repeat-x;
 	color: #000000;
 }
-bookcolor .ui-widget-content a {
+.bookcolor .ui-widget-content a {
 	color: #000000;
 }
-bookcolor .ui-widget-header {
+.bookcolor .ui-widget-header {
 	border: 1px solid #B2A63F;
 	background: #E7DE92 url("images/ui-bg_highlight-hard_75_E7DE92_1x100.png") 50% 50% repeat-x;
 	color: #B2A63F;
 	font-weight: bold;
 }
-bookcolor .ui-widget-header a {
+.bookcolor .ui-widget-header a {
 	color: #B2A63F;
 }
 
 /* Interaction states
 ----------------------------------*/
-bookcolor .ui-state-default,
-bookcolor .ui-widget-content .ui-state-default,
-bookcolor .ui-widget-header .ui-state-default {
+.bookcolor .ui-state-default,
+.bookcolor .ui-widget-content .ui-state-default,
+.bookcolor .ui-widget-header .ui-state-default {
 	border: 1px solid #B2A63F;
 	background: #FFFBD7 url("images/ui-bg_highlight-hard_100_FFFBD7_1x100.png") 50% 50% repeat-x;
 	font-weight: normal;
 	color: #B2A63F;
 }
-bookcolor .ui-state-default a,
-bookcolor .ui-state-default a:link,
-bookcolor .ui-state-default a:visited {
+.bookcolor .ui-state-default a,
+.bookcolor .ui-state-default a:link,
+.bookcolor .ui-state-default a:visited {
 	color: #B2A63F;
 	text-decoration: none;
 }
-bookcolor .ui-state-hover,
-bookcolor .ui-widget-content .ui-state-hover,
-bookcolor .ui-widget-header .ui-state-hover,
-bookcolor .ui-state-focus,
-bookcolor .ui-widget-content .ui-state-focus,
-bookcolor .ui-widget-header .ui-state-focus {
+.bookcolor .ui-state-hover,
+.bookcolor .ui-widget-content .ui-state-hover,
+.bookcolor .ui-widget-header .ui-state-hover,
+.bookcolor .ui-state-focus,
+.bookcolor .ui-widget-content .ui-state-focus,
+.bookcolor .ui-widget-header .ui-state-focus {
 	border: 1px solid #B2A63F;
 	background: #B2A63F url("images/ui-bg_highlight-hard_75_B2A63F_1x100.png") 50% 50% repeat-x;
 	font-weight: normal;
 	color: #FFFBD7;
 }
-bookcolor .ui-state-hover a,
-bookcolor .ui-state-hover a:hover,
-bookcolor .ui-state-hover a:link,
-bookcolor .ui-state-hover a:visited,
-bookcolor .ui-state-focus a,
-bookcolor .ui-state-focus a:hover,
-bookcolor .ui-state-focus a:link,
-bookcolor .ui-state-focus a:visited {
+.bookcolor .ui-state-hover a,
+.bookcolor .ui-state-hover a:hover,
+.bookcolor .ui-state-hover a:link,
+.bookcolor .ui-state-hover a:visited,
+.bookcolor .ui-state-focus a,
+.bookcolor .ui-state-focus a:hover,
+.bookcolor .ui-state-focus a:link,
+.bookcolor .ui-state-focus a:visited {
 	color: #FFFBD7;
 	text-decoration: none;
 }
-bookcolor .ui-state-active,
-bookcolor .ui-widget-content .ui-state-active,
-bookcolor .ui-widget-header .ui-state-active {
+.bookcolor .ui-state-active,
+.bookcolor .ui-widget-content .ui-state-active,
+.bookcolor .ui-widget-header .ui-state-active {
 	border: 1px solid #B2A63F;
 	background: #FFffff url("images/ui-bg_flat_100_FFffff_40x100.png") 50% 50% repeat-x;
 	font-weight: normal;
 	color: #000000;
 }
-bookcolor .ui-state-active a,
-bookcolor .ui-state-active a:link,
-bookcolor .ui-state-active a:visited {
+.bookcolor .ui-state-active a,
+.bookcolor .ui-state-active a:link,
+.bookcolor .ui-state-active a:visited {
 	color: #000000;
 	text-decoration: none;
 }
 
 /* Interaction Cues
 ----------------------------------*/
-bookcolor .ui-state-highlight,
-bookcolor .ui-widget-content .ui-state-highlight,
-bookcolor .ui-widget-header .ui-state-highlight {
+.bookcolor .ui-state-highlight,
+.bookcolor .ui-widget-content .ui-state-highlight,
+.bookcolor .ui-widget-header .ui-state-highlight {
 	border: 1px solid #87A73B;
 	background: #C1D989 url("images/ui-bg_highlight-hard_75_C1D989_1x100.png") 50% top repeat-x;
 	color: #87A73B;
 }
-bookcolor .ui-state-highlight a,
-bookcolor .ui-widget-content .ui-state-highlight a,
-bookcolor .ui-widget-header .ui-state-highlight a {
+.bookcolor .ui-state-highlight a,
+.bookcolor .ui-widget-content .ui-state-highlight a,
+.bookcolor .ui-widget-header .ui-state-highlight a {
 	color: #87A73B;
 }
-bookcolor .ui-state-error,
-bookcolor .ui-widget-content .ui-state-error,
-bookcolor .ui-widget-header .ui-state-error {
+.bookcolor .ui-state-error,
+.bookcolor .ui-widget-content .ui-state-error,
+.bookcolor .ui-widget-header .ui-state-error {
 	border: 1px solid #9B6400;
 	background: #FFA500 url("images/ui-bg_highlight-soft_100_FFA500_1x100.png") 50% top repeat-x;
 	color: #9B6400;
 }
-bookcolor .ui-state-error a,
-bookcolor .ui-widget-content .ui-state-error a,
-bookcolor .ui-widget-header .ui-state-error a {
+.bookcolor .ui-state-error a,
+.bookcolor .ui-widget-content .ui-state-error a,
+.bookcolor .ui-widget-header .ui-state-error a {
 	color: #9B6400;
 }
-bookcolor .ui-state-error-text,
-bookcolor .ui-widget-content .ui-state-error-text,
-bookcolor .ui-widget-header .ui-state-error-text {
+.bookcolor .ui-state-error-text,
+.bookcolor .ui-widget-content .ui-state-error-text,
+.bookcolor .ui-widget-header .ui-state-error-text {
 	color: #9B6400;
 }
-bookcolor .ui-priority-primary,
-bookcolor .ui-widget-content .ui-priority-primary,
-bookcolor .ui-widget-header .ui-priority-primary {
+.bookcolor .ui-priority-primary,
+.bookcolor .ui-widget-content .ui-priority-primary,
+.bookcolor .ui-widget-header .ui-priority-primary {
 	font-weight: bold;
 }
-bookcolor .ui-priority-secondary,
-bookcolor .ui-widget-content .ui-priority-secondary,
-bookcolor .ui-widget-header .ui-priority-secondary {
+.bookcolor .ui-priority-secondary,
+.bookcolor .ui-widget-content .ui-priority-secondary,
+.bookcolor .ui-widget-header .ui-priority-secondary {
 	opacity: .7;
 	filter:Alpha(Opacity=70);
 	font-weight: normal;
 }
-bookcolor .ui-state-disabled,
-bookcolor .ui-widget-content .ui-state-disabled,
-bookcolor .ui-widget-header .ui-state-disabled {
+.bookcolor .ui-state-disabled,
+.bookcolor .ui-widget-content .ui-state-disabled,
+.bookcolor .ui-widget-header .ui-state-disabled {
 	opacity: .35;
 	filter:Alpha(Opacity=35);
 	background-image: none;
 }
-bookcolor .ui-state-disabled .ui-icon {
+.bookcolor .ui-state-disabled .ui-icon {
 	filter:Alpha(Opacity=35); /* For IE8 - See #6059 */
 }
 
@@ -972,250 +972,250 @@ bookcolor .ui-state-disabled .ui-icon {
 ----------------------------------*/
 
 /* states and images */
-bookcolor .ui-icon {
+.bookcolor .ui-icon {
 	width: 16px;
 	height: 16px;
 }
-bookcolor .ui-icon,
-bookcolor .ui-widget-content .ui-icon {
+.bookcolor .ui-icon,
+.bookcolor .ui-widget-content .ui-icon {
 	background-image: url("images/ui-icons_B2A63F_256x240.png");
 }
-bookcolor .ui-widget-header .ui-icon {
+.bookcolor .ui-widget-header .ui-icon {
 	background-image: url("images/ui-icons_B2A63F_256x240.png");
 }
-bookcolor .ui-state-default .ui-icon {
+.bookcolor .ui-state-default .ui-icon {
 	background-image: url("images/ui-icons_B2A63F_256x240.png");
 }
-bookcolor .ui-state-hover .ui-icon,
-bookcolor .ui-state-focus .ui-icon {
+.bookcolor .ui-state-hover .ui-icon,
+.bookcolor .ui-state-focus .ui-icon {
 	background-image: url("images/ui-icons_FFFBD7_256x240.png");
 }
-bookcolor .ui-state-active .ui-icon {
+.bookcolor .ui-state-active .ui-icon {
 	background-image: url("images/ui-icons_B2A63F_256x240.png");
 }
-bookcolor .ui-state-highlight .ui-icon {
+.bookcolor .ui-state-highlight .ui-icon {
 	background-image: url("images/ui-icons_87A73B_256x240.png");
 }
-bookcolor .ui-state-error .ui-icon,
-bookcolor .ui-state-error-text .ui-icon {
+.bookcolor .ui-state-error .ui-icon,
+.bookcolor .ui-state-error-text .ui-icon {
 	background-image: url("images/ui-icons_9B6400_256x240.png");
 }
 
 /* positioning */
-bookcolor .ui-icon-blank { background-position: 16px 16px; }
-bookcolor .ui-icon-carat-1-n { background-position: 0 0; }
-bookcolor .ui-icon-carat-1-ne { background-position: -16px 0; }
-bookcolor .ui-icon-carat-1-e { background-position: -32px 0; }
-bookcolor .ui-icon-carat-1-se { background-position: -48px 0; }
-bookcolor .ui-icon-carat-1-s { background-position: -64px 0; }
-bookcolor .ui-icon-carat-1-sw { background-position: -80px 0; }
-bookcolor .ui-icon-carat-1-w { background-position: -96px 0; }
-bookcolor .ui-icon-carat-1-nw { background-position: -112px 0; }
-bookcolor .ui-icon-carat-2-n-s { background-position: -128px 0; }
-bookcolor .ui-icon-carat-2-e-w { background-position: -144px 0; }
-bookcolor .ui-icon-triangle-1-n { background-position: 0 -16px; }
-bookcolor .ui-icon-triangle-1-ne { background-position: -16px -16px; }
-bookcolor .ui-icon-triangle-1-e { background-position: -32px -16px; }
-bookcolor .ui-icon-triangle-1-se { background-position: -48px -16px; }
-bookcolor .ui-icon-triangle-1-s { background-position: -64px -16px; }
-bookcolor .ui-icon-triangle-1-sw { background-position: -80px -16px; }
-bookcolor .ui-icon-triangle-1-w { background-position: -96px -16px; }
-bookcolor .ui-icon-triangle-1-nw { background-position: -112px -16px; }
-bookcolor .ui-icon-triangle-2-n-s { background-position: -128px -16px; }
-bookcolor .ui-icon-triangle-2-e-w { background-position: -144px -16px; }
-bookcolor .ui-icon-arrow-1-n { background-position: 0 -32px; }
-bookcolor .ui-icon-arrow-1-ne { background-position: -16px -32px; }
-bookcolor .ui-icon-arrow-1-e { background-position: -32px -32px; }
-bookcolor .ui-icon-arrow-1-se { background-position: -48px -32px; }
-bookcolor .ui-icon-arrow-1-s { background-position: -64px -32px; }
-bookcolor .ui-icon-arrow-1-sw { background-position: -80px -32px; }
-bookcolor .ui-icon-arrow-1-w { background-position: -96px -32px; }
-bookcolor .ui-icon-arrow-1-nw { background-position: -112px -32px; }
-bookcolor .ui-icon-arrow-2-n-s { background-position: -128px -32px; }
-bookcolor .ui-icon-arrow-2-ne-sw { background-position: -144px -32px; }
-bookcolor .ui-icon-arrow-2-e-w { background-position: -160px -32px; }
-bookcolor .ui-icon-arrow-2-se-nw { background-position: -176px -32px; }
-bookcolor .ui-icon-arrowstop-1-n { background-position: -192px -32px; }
-bookcolor .ui-icon-arrowstop-1-e { background-position: -208px -32px; }
-bookcolor .ui-icon-arrowstop-1-s { background-position: -224px -32px; }
-bookcolor .ui-icon-arrowstop-1-w { background-position: -240px -32px; }
-bookcolor .ui-icon-arrowthick-1-n { background-position: 0 -48px; }
-bookcolor .ui-icon-arrowthick-1-ne { background-position: -16px -48px; }
-bookcolor .ui-icon-arrowthick-1-e { background-position: -32px -48px; }
-bookcolor .ui-icon-arrowthick-1-se { background-position: -48px -48px; }
-bookcolor .ui-icon-arrowthick-1-s { background-position: -64px -48px; }
-bookcolor .ui-icon-arrowthick-1-sw { background-position: -80px -48px; }
-bookcolor .ui-icon-arrowthick-1-w { background-position: -96px -48px; }
-bookcolor .ui-icon-arrowthick-1-nw { background-position: -112px -48px; }
-bookcolor .ui-icon-arrowthick-2-n-s { background-position: -128px -48px; }
-bookcolor .ui-icon-arrowthick-2-ne-sw { background-position: -144px -48px; }
-bookcolor .ui-icon-arrowthick-2-e-w { background-position: -160px -48px; }
-bookcolor .ui-icon-arrowthick-2-se-nw { background-position: -176px -48px; }
-bookcolor .ui-icon-arrowthickstop-1-n { background-position: -192px -48px; }
-bookcolor .ui-icon-arrowthickstop-1-e { background-position: -208px -48px; }
-bookcolor .ui-icon-arrowthickstop-1-s { background-position: -224px -48px; }
-bookcolor .ui-icon-arrowthickstop-1-w { background-position: -240px -48px; }
-bookcolor .ui-icon-arrowreturnthick-1-w { background-position: 0 -64px; }
-bookcolor .ui-icon-arrowreturnthick-1-n { background-position: -16px -64px; }
-bookcolor .ui-icon-arrowreturnthick-1-e { background-position: -32px -64px; }
-bookcolor .ui-icon-arrowreturnthick-1-s { background-position: -48px -64px; }
-bookcolor .ui-icon-arrowreturn-1-w { background-position: -64px -64px; }
-bookcolor .ui-icon-arrowreturn-1-n { background-position: -80px -64px; }
-bookcolor .ui-icon-arrowreturn-1-e { background-position: -96px -64px; }
-bookcolor .ui-icon-arrowreturn-1-s { background-position: -112px -64px; }
-bookcolor .ui-icon-arrowrefresh-1-w { background-position: -128px -64px; }
-bookcolor .ui-icon-arrowrefresh-1-n { background-position: -144px -64px; }
-bookcolor .ui-icon-arrowrefresh-1-e { background-position: -160px -64px; }
-bookcolor .ui-icon-arrowrefresh-1-s { background-position: -176px -64px; }
-bookcolor .ui-icon-arrow-4 { background-position: 0 -80px; }
-bookcolor .ui-icon-arrow-4-diag { background-position: -16px -80px; }
-bookcolor .ui-icon-extlink { background-position: -32px -80px; }
-bookcolor .ui-icon-newwin { background-position: -48px -80px; }
-bookcolor .ui-icon-refresh { background-position: -64px -80px; }
-bookcolor .ui-icon-shuffle { background-position: -80px -80px; }
-bookcolor .ui-icon-transfer-e-w { background-position: -96px -80px; }
-bookcolor .ui-icon-transferthick-e-w { background-position: -112px -80px; }
-bookcolor .ui-icon-folder-collapsed { background-position: 0 -96px; }
-bookcolor .ui-icon-folder-open { background-position: -16px -96px; }
-bookcolor .ui-icon-document { background-position: -32px -96px; }
-bookcolor .ui-icon-document-b { background-position: -48px -96px; }
-bookcolor .ui-icon-note { background-position: -64px -96px; }
-bookcolor .ui-icon-mail-closed { background-position: -80px -96px; }
-bookcolor .ui-icon-mail-open { background-position: -96px -96px; }
-bookcolor .ui-icon-suitcase { background-position: -112px -96px; }
-bookcolor .ui-icon-comment { background-position: -128px -96px; }
-bookcolor .ui-icon-person { background-position: -144px -96px; }
-bookcolor .ui-icon-print { background-position: -160px -96px; }
-bookcolor .ui-icon-trash { background-position: -176px -96px; }
-bookcolor .ui-icon-locked { background-position: -192px -96px; }
-bookcolor .ui-icon-unlocked { background-position: -208px -96px; }
-bookcolor .ui-icon-bookmark { background-position: -224px -96px; }
-bookcolor .ui-icon-tag { background-position: -240px -96px; }
-bookcolor .ui-icon-home { background-position: 0 -112px; }
-bookcolor .ui-icon-flag { background-position: -16px -112px; }
-bookcolor .ui-icon-calendar { background-position: -32px -112px; }
-bookcolor .ui-icon-cart { background-position: -48px -112px; }
-bookcolor .ui-icon-pencil { background-position: -64px -112px; }
-bookcolor .ui-icon-clock { background-position: -80px -112px; }
-bookcolor .ui-icon-disk { background-position: -96px -112px; }
-bookcolor .ui-icon-calculator { background-position: -112px -112px; }
-bookcolor .ui-icon-zoomin { background-position: -128px -112px; }
-bookcolor .ui-icon-zoomout { background-position: -144px -112px; }
-bookcolor .ui-icon-search { background-position: -160px -112px; }
-bookcolor .ui-icon-wrench { background-position: -176px -112px; }
-bookcolor .ui-icon-gear { background-position: -192px -112px; }
-bookcolor .ui-icon-heart { background-position: -208px -112px; }
-bookcolor .ui-icon-star { background-position: -224px -112px; }
-bookcolor .ui-icon-link { background-position: -240px -112px; }
-bookcolor .ui-icon-cancel { background-position: 0 -128px; }
-bookcolor .ui-icon-plus { background-position: -16px -128px; }
-bookcolor .ui-icon-plusthick { background-position: -32px -128px; }
-bookcolor .ui-icon-minus { background-position: -48px -128px; }
-bookcolor .ui-icon-minusthick { background-position: -64px -128px; }
-bookcolor .ui-icon-close { background-position: -80px -128px; }
-bookcolor .ui-icon-closethick { background-position: -96px -128px; }
-bookcolor .ui-icon-key { background-position: -112px -128px; }
-bookcolor .ui-icon-lightbulb { background-position: -128px -128px; }
-bookcolor .ui-icon-scissors { background-position: -144px -128px; }
-bookcolor .ui-icon-clipboard { background-position: -160px -128px; }
-bookcolor .ui-icon-copy { background-position: -176px -128px; }
-bookcolor .ui-icon-contact { background-position: -192px -128px; }
-bookcolor .ui-icon-image { background-position: -208px -128px; }
-bookcolor .ui-icon-video { background-position: -224px -128px; }
-bookcolor .ui-icon-script { background-position: -240px -128px; }
-bookcolor .ui-icon-alert { background-position: 0 -144px; }
-bookcolor .ui-icon-info { background-position: -16px -144px; }
-bookcolor .ui-icon-notice { background-position: -32px -144px; }
-bookcolor .ui-icon-help { background-position: -48px -144px; }
-bookcolor .ui-icon-check { background-position: -64px -144px; }
-bookcolor .ui-icon-bullet { background-position: -80px -144px; }
-bookcolor .ui-icon-radio-on { background-position: -96px -144px; }
-bookcolor .ui-icon-radio-off { background-position: -112px -144px; }
-bookcolor .ui-icon-pin-w { background-position: -128px -144px; }
-bookcolor .ui-icon-pin-s { background-position: -144px -144px; }
-bookcolor .ui-icon-play { background-position: 0 -160px; }
-bookcolor .ui-icon-pause { background-position: -16px -160px; }
-bookcolor .ui-icon-seek-next { background-position: -32px -160px; }
-bookcolor .ui-icon-seek-prev { background-position: -48px -160px; }
-bookcolor .ui-icon-seek-end { background-position: -64px -160px; }
-bookcolor .ui-icon-seek-start { background-position: -80px -160px; }
+.bookcolor .ui-icon-blank { background-position: 16px 16px; }
+.bookcolor .ui-icon-carat-1-n { background-position: 0 0; }
+.bookcolor .ui-icon-carat-1-ne { background-position: -16px 0; }
+.bookcolor .ui-icon-carat-1-e { background-position: -32px 0; }
+.bookcolor .ui-icon-carat-1-se { background-position: -48px 0; }
+.bookcolor .ui-icon-carat-1-s { background-position: -64px 0; }
+.bookcolor .ui-icon-carat-1-sw { background-position: -80px 0; }
+.bookcolor .ui-icon-carat-1-w { background-position: -96px 0; }
+.bookcolor .ui-icon-carat-1-nw { background-position: -112px 0; }
+.bookcolor .ui-icon-carat-2-n-s { background-position: -128px 0; }
+.bookcolor .ui-icon-carat-2-e-w { background-position: -144px 0; }
+.bookcolor .ui-icon-triangle-1-n { background-position: 0 -16px; }
+.bookcolor .ui-icon-triangle-1-ne { background-position: -16px -16px; }
+.bookcolor .ui-icon-triangle-1-e { background-position: -32px -16px; }
+.bookcolor .ui-icon-triangle-1-se { background-position: -48px -16px; }
+.bookcolor .ui-icon-triangle-1-s { background-position: -64px -16px; }
+.bookcolor .ui-icon-triangle-1-sw { background-position: -80px -16px; }
+.bookcolor .ui-icon-triangle-1-w { background-position: -96px -16px; }
+.bookcolor .ui-icon-triangle-1-nw { background-position: -112px -16px; }
+.bookcolor .ui-icon-triangle-2-n-s { background-position: -128px -16px; }
+.bookcolor .ui-icon-triangle-2-e-w { background-position: -144px -16px; }
+.bookcolor .ui-icon-arrow-1-n { background-position: 0 -32px; }
+.bookcolor .ui-icon-arrow-1-ne { background-position: -16px -32px; }
+.bookcolor .ui-icon-arrow-1-e { background-position: -32px -32px; }
+.bookcolor .ui-icon-arrow-1-se { background-position: -48px -32px; }
+.bookcolor .ui-icon-arrow-1-s { background-position: -64px -32px; }
+.bookcolor .ui-icon-arrow-1-sw { background-position: -80px -32px; }
+.bookcolor .ui-icon-arrow-1-w { background-position: -96px -32px; }
+.bookcolor .ui-icon-arrow-1-nw { background-position: -112px -32px; }
+.bookcolor .ui-icon-arrow-2-n-s { background-position: -128px -32px; }
+.bookcolor .ui-icon-arrow-2-ne-sw { background-position: -144px -32px; }
+.bookcolor .ui-icon-arrow-2-e-w { background-position: -160px -32px; }
+.bookcolor .ui-icon-arrow-2-se-nw { background-position: -176px -32px; }
+.bookcolor .ui-icon-arrowstop-1-n { background-position: -192px -32px; }
+.bookcolor .ui-icon-arrowstop-1-e { background-position: -208px -32px; }
+.bookcolor .ui-icon-arrowstop-1-s { background-position: -224px -32px; }
+.bookcolor .ui-icon-arrowstop-1-w { background-position: -240px -32px; }
+.bookcolor .ui-icon-arrowthick-1-n { background-position: 0 -48px; }
+.bookcolor .ui-icon-arrowthick-1-ne { background-position: -16px -48px; }
+.bookcolor .ui-icon-arrowthick-1-e { background-position: -32px -48px; }
+.bookcolor .ui-icon-arrowthick-1-se { background-position: -48px -48px; }
+.bookcolor .ui-icon-arrowthick-1-s { background-position: -64px -48px; }
+.bookcolor .ui-icon-arrowthick-1-sw { background-position: -80px -48px; }
+.bookcolor .ui-icon-arrowthick-1-w { background-position: -96px -48px; }
+.bookcolor .ui-icon-arrowthick-1-nw { background-position: -112px -48px; }
+.bookcolor .ui-icon-arrowthick-2-n-s { background-position: -128px -48px; }
+.bookcolor .ui-icon-arrowthick-2-ne-sw { background-position: -144px -48px; }
+.bookcolor .ui-icon-arrowthick-2-e-w { background-position: -160px -48px; }
+.bookcolor .ui-icon-arrowthick-2-se-nw { background-position: -176px -48px; }
+.bookcolor .ui-icon-arrowthickstop-1-n { background-position: -192px -48px; }
+.bookcolor .ui-icon-arrowthickstop-1-e { background-position: -208px -48px; }
+.bookcolor .ui-icon-arrowthickstop-1-s { background-position: -224px -48px; }
+.bookcolor .ui-icon-arrowthickstop-1-w { background-position: -240px -48px; }
+.bookcolor .ui-icon-arrowreturnthick-1-w { background-position: 0 -64px; }
+.bookcolor .ui-icon-arrowreturnthick-1-n { background-position: -16px -64px; }
+.bookcolor .ui-icon-arrowreturnthick-1-e { background-position: -32px -64px; }
+.bookcolor .ui-icon-arrowreturnthick-1-s { background-position: -48px -64px; }
+.bookcolor .ui-icon-arrowreturn-1-w { background-position: -64px -64px; }
+.bookcolor .ui-icon-arrowreturn-1-n { background-position: -80px -64px; }
+.bookcolor .ui-icon-arrowreturn-1-e { background-position: -96px -64px; }
+.bookcolor .ui-icon-arrowreturn-1-s { background-position: -112px -64px; }
+.bookcolor .ui-icon-arrowrefresh-1-w { background-position: -128px -64px; }
+.bookcolor .ui-icon-arrowrefresh-1-n { background-position: -144px -64px; }
+.bookcolor .ui-icon-arrowrefresh-1-e { background-position: -160px -64px; }
+.bookcolor .ui-icon-arrowrefresh-1-s { background-position: -176px -64px; }
+.bookcolor .ui-icon-arrow-4 { background-position: 0 -80px; }
+.bookcolor .ui-icon-arrow-4-diag { background-position: -16px -80px; }
+.bookcolor .ui-icon-extlink { background-position: -32px -80px; }
+.bookcolor .ui-icon-newwin { background-position: -48px -80px; }
+.bookcolor .ui-icon-refresh { background-position: -64px -80px; }
+.bookcolor .ui-icon-shuffle { background-position: -80px -80px; }
+.bookcolor .ui-icon-transfer-e-w { background-position: -96px -80px; }
+.bookcolor .ui-icon-transferthick-e-w { background-position: -112px -80px; }
+.bookcolor .ui-icon-folder-collapsed { background-position: 0 -96px; }
+.bookcolor .ui-icon-folder-open { background-position: -16px -96px; }
+.bookcolor .ui-icon-document { background-position: -32px -96px; }
+.bookcolor .ui-icon-document-b { background-position: -48px -96px; }
+.bookcolor .ui-icon-note { background-position: -64px -96px; }
+.bookcolor .ui-icon-mail-closed { background-position: -80px -96px; }
+.bookcolor .ui-icon-mail-open { background-position: -96px -96px; }
+.bookcolor .ui-icon-suitcase { background-position: -112px -96px; }
+.bookcolor .ui-icon-comment { background-position: -128px -96px; }
+.bookcolor .ui-icon-person { background-position: -144px -96px; }
+.bookcolor .ui-icon-print { background-position: -160px -96px; }
+.bookcolor .ui-icon-trash { background-position: -176px -96px; }
+.bookcolor .ui-icon-locked { background-position: -192px -96px; }
+.bookcolor .ui-icon-unlocked { background-position: -208px -96px; }
+.bookcolor .ui-icon-bookmark { background-position: -224px -96px; }
+.bookcolor .ui-icon-tag { background-position: -240px -96px; }
+.bookcolor .ui-icon-home { background-position: 0 -112px; }
+.bookcolor .ui-icon-flag { background-position: -16px -112px; }
+.bookcolor .ui-icon-calendar { background-position: -32px -112px; }
+.bookcolor .ui-icon-cart { background-position: -48px -112px; }
+.bookcolor .ui-icon-pencil { background-position: -64px -112px; }
+.bookcolor .ui-icon-clock { background-position: -80px -112px; }
+.bookcolor .ui-icon-disk { background-position: -96px -112px; }
+.bookcolor .ui-icon-calculator { background-position: -112px -112px; }
+.bookcolor .ui-icon-zoomin { background-position: -128px -112px; }
+.bookcolor .ui-icon-zoomout { background-position: -144px -112px; }
+.bookcolor .ui-icon-search { background-position: -160px -112px; }
+.bookcolor .ui-icon-wrench { background-position: -176px -112px; }
+.bookcolor .ui-icon-gear { background-position: -192px -112px; }
+.bookcolor .ui-icon-heart { background-position: -208px -112px; }
+.bookcolor .ui-icon-star { background-position: -224px -112px; }
+.bookcolor .ui-icon-link { background-position: -240px -112px; }
+.bookcolor .ui-icon-cancel { background-position: 0 -128px; }
+.bookcolor .ui-icon-plus { background-position: -16px -128px; }
+.bookcolor .ui-icon-plusthick { background-position: -32px -128px; }
+.bookcolor .ui-icon-minus { background-position: -48px -128px; }
+.bookcolor .ui-icon-minusthick { background-position: -64px -128px; }
+.bookcolor .ui-icon-close { background-position: -80px -128px; }
+.bookcolor .ui-icon-closethick { background-position: -96px -128px; }
+.bookcolor .ui-icon-key { background-position: -112px -128px; }
+.bookcolor .ui-icon-lightbulb { background-position: -128px -128px; }
+.bookcolor .ui-icon-scissors { background-position: -144px -128px; }
+.bookcolor .ui-icon-clipboard { background-position: -160px -128px; }
+.bookcolor .ui-icon-copy { background-position: -176px -128px; }
+.bookcolor .ui-icon-contact { background-position: -192px -128px; }
+.bookcolor .ui-icon-image { background-position: -208px -128px; }
+.bookcolor .ui-icon-video { background-position: -224px -128px; }
+.bookcolor .ui-icon-script { background-position: -240px -128px; }
+.bookcolor .ui-icon-alert { background-position: 0 -144px; }
+.bookcolor .ui-icon-info { background-position: -16px -144px; }
+.bookcolor .ui-icon-notice { background-position: -32px -144px; }
+.bookcolor .ui-icon-help { background-position: -48px -144px; }
+.bookcolor .ui-icon-check { background-position: -64px -144px; }
+.bookcolor .ui-icon-bullet { background-position: -80px -144px; }
+.bookcolor .ui-icon-radio-on { background-position: -96px -144px; }
+.bookcolor .ui-icon-radio-off { background-position: -112px -144px; }
+.bookcolor .ui-icon-pin-w { background-position: -128px -144px; }
+.bookcolor .ui-icon-pin-s { background-position: -144px -144px; }
+.bookcolor .ui-icon-play { background-position: 0 -160px; }
+.bookcolor .ui-icon-pause { background-position: -16px -160px; }
+.bookcolor .ui-icon-seek-next { background-position: -32px -160px; }
+.bookcolor .ui-icon-seek-prev { background-position: -48px -160px; }
+.bookcolor .ui-icon-seek-end { background-position: -64px -160px; }
+.bookcolor .ui-icon-seek-start { background-position: -80px -160px; }
 /* ui-icon-seek-first is deprecated, use ui-icon-seek-start instead */
-bookcolor .ui-icon-seek-first { background-position: -80px -160px; }
-bookcolor .ui-icon-stop { background-position: -96px -160px; }
-bookcolor .ui-icon-eject { background-position: -112px -160px; }
-bookcolor .ui-icon-volume-off { background-position: -128px -160px; }
-bookcolor .ui-icon-volume-on { background-position: -144px -160px; }
-bookcolor .ui-icon-power { background-position: 0 -176px; }
-bookcolor .ui-icon-signal-diag { background-position: -16px -176px; }
-bookcolor .ui-icon-signal { background-position: -32px -176px; }
-bookcolor .ui-icon-battery-0 { background-position: -48px -176px; }
-bookcolor .ui-icon-battery-1 { background-position: -64px -176px; }
-bookcolor .ui-icon-battery-2 { background-position: -80px -176px; }
-bookcolor .ui-icon-battery-3 { background-position: -96px -176px; }
-bookcolor .ui-icon-circle-plus { background-position: 0 -192px; }
-bookcolor .ui-icon-circle-minus { background-position: -16px -192px; }
-bookcolor .ui-icon-circle-close { background-position: -32px -192px; }
-bookcolor .ui-icon-circle-triangle-e { background-position: -48px -192px; }
-bookcolor .ui-icon-circle-triangle-s { background-position: -64px -192px; }
-bookcolor .ui-icon-circle-triangle-w { background-position: -80px -192px; }
-bookcolor .ui-icon-circle-triangle-n { background-position: -96px -192px; }
-bookcolor .ui-icon-circle-arrow-e { background-position: -112px -192px; }
-bookcolor .ui-icon-circle-arrow-s { background-position: -128px -192px; }
-bookcolor .ui-icon-circle-arrow-w { background-position: -144px -192px; }
-bookcolor .ui-icon-circle-arrow-n { background-position: -160px -192px; }
-bookcolor .ui-icon-circle-zoomin { background-position: -176px -192px; }
-bookcolor .ui-icon-circle-zoomout { background-position: -192px -192px; }
-bookcolor .ui-icon-circle-check { background-position: -208px -192px; }
-bookcolor .ui-icon-circlesmall-plus { background-position: 0 -208px; }
-bookcolor .ui-icon-circlesmall-minus { background-position: -16px -208px; }
-bookcolor .ui-icon-circlesmall-close { background-position: -32px -208px; }
-bookcolor .ui-icon-squaresmall-plus { background-position: -48px -208px; }
-bookcolor .ui-icon-squaresmall-minus { background-position: -64px -208px; }
-bookcolor .ui-icon-squaresmall-close { background-position: -80px -208px; }
-bookcolor .ui-icon-grip-dotted-vertical { background-position: 0 -224px; }
-bookcolor .ui-icon-grip-dotted-horizontal { background-position: -16px -224px; }
-bookcolor .ui-icon-grip-solid-vertical { background-position: -32px -224px; }
-bookcolor .ui-icon-grip-solid-horizontal { background-position: -48px -224px; }
-bookcolor .ui-icon-gripsmall-diagonal-se { background-position: -64px -224px; }
-bookcolor .ui-icon-grip-diagonal-se { background-position: -80px -224px; }
+.bookcolor .ui-icon-seek-first { background-position: -80px -160px; }
+.bookcolor .ui-icon-stop { background-position: -96px -160px; }
+.bookcolor .ui-icon-eject { background-position: -112px -160px; }
+.bookcolor .ui-icon-volume-off { background-position: -128px -160px; }
+.bookcolor .ui-icon-volume-on { background-position: -144px -160px; }
+.bookcolor .ui-icon-power { background-position: 0 -176px; }
+.bookcolor .ui-icon-signal-diag { background-position: -16px -176px; }
+.bookcolor .ui-icon-signal { background-position: -32px -176px; }
+.bookcolor .ui-icon-battery-0 { background-position: -48px -176px; }
+.bookcolor .ui-icon-battery-1 { background-position: -64px -176px; }
+.bookcolor .ui-icon-battery-2 { background-position: -80px -176px; }
+.bookcolor .ui-icon-battery-3 { background-position: -96px -176px; }
+.bookcolor .ui-icon-circle-plus { background-position: 0 -192px; }
+.bookcolor .ui-icon-circle-minus { background-position: -16px -192px; }
+.bookcolor .ui-icon-circle-close { background-position: -32px -192px; }
+.bookcolor .ui-icon-circle-triangle-e { background-position: -48px -192px; }
+.bookcolor .ui-icon-circle-triangle-s { background-position: -64px -192px; }
+.bookcolor .ui-icon-circle-triangle-w { background-position: -80px -192px; }
+.bookcolor .ui-icon-circle-triangle-n { background-position: -96px -192px; }
+.bookcolor .ui-icon-circle-arrow-e { background-position: -112px -192px; }
+.bookcolor .ui-icon-circle-arrow-s { background-position: -128px -192px; }
+.bookcolor .ui-icon-circle-arrow-w { background-position: -144px -192px; }
+.bookcolor .ui-icon-circle-arrow-n { background-position: -160px -192px; }
+.bookcolor .ui-icon-circle-zoomin { background-position: -176px -192px; }
+.bookcolor .ui-icon-circle-zoomout { background-position: -192px -192px; }
+.bookcolor .ui-icon-circle-check { background-position: -208px -192px; }
+.bookcolor .ui-icon-circlesmall-plus { background-position: 0 -208px; }
+.bookcolor .ui-icon-circlesmall-minus { background-position: -16px -208px; }
+.bookcolor .ui-icon-circlesmall-close { background-position: -32px -208px; }
+.bookcolor .ui-icon-squaresmall-plus { background-position: -48px -208px; }
+.bookcolor .ui-icon-squaresmall-minus { background-position: -64px -208px; }
+.bookcolor .ui-icon-squaresmall-close { background-position: -80px -208px; }
+.bookcolor .ui-icon-grip-dotted-vertical { background-position: 0 -224px; }
+.bookcolor .ui-icon-grip-dotted-horizontal { background-position: -16px -224px; }
+.bookcolor .ui-icon-grip-solid-vertical { background-position: -32px -224px; }
+.bookcolor .ui-icon-grip-solid-horizontal { background-position: -48px -224px; }
+.bookcolor .ui-icon-gripsmall-diagonal-se { background-position: -64px -224px; }
+.bookcolor .ui-icon-grip-diagonal-se { background-position: -80px -224px; }
 
 
 /* Misc visuals
 ----------------------------------*/
 
 /* Corner radius */
-bookcolor .ui-corner-all,
-bookcolor .ui-corner-top,
-bookcolor .ui-corner-left,
-bookcolor .ui-corner-tl {
+.bookcolor .ui-corner-all,
+.bookcolor .ui-corner-top,
+.bookcolor .ui-corner-left,
+.bookcolor .ui-corner-tl {
 	border-top-left-radius: 1em;
 }
-bookcolor .ui-corner-all,
-bookcolor .ui-corner-top,
-bookcolor .ui-corner-right,
-bookcolor .ui-corner-tr {
+.bookcolor .ui-corner-all,
+.bookcolor .ui-corner-top,
+.bookcolor .ui-corner-right,
+.bookcolor .ui-corner-tr {
 	border-top-right-radius: 1em;
 }
-bookcolor .ui-corner-all,
-bookcolor .ui-corner-bottom,
-bookcolor .ui-corner-left,
-bookcolor .ui-corner-bl {
+.bookcolor .ui-corner-all,
+.bookcolor .ui-corner-bottom,
+.bookcolor .ui-corner-left,
+.bookcolor .ui-corner-bl {
 	border-bottom-left-radius: 1em;
 }
-bookcolor .ui-corner-all,
-bookcolor .ui-corner-bottom,
-bookcolor .ui-corner-right,
-bookcolor .ui-corner-br {
+.bookcolor .ui-corner-all,
+.bookcolor .ui-corner-bottom,
+.bookcolor .ui-corner-right,
+.bookcolor .ui-corner-br {
 	border-bottom-right-radius: 1em;
 }
 
 /* Overlays */
-bookcolor .ui-widget-overlay {
+.bookcolor .ui-widget-overlay {
 	background: #E7DE92 url("images/ui-bg_flat_0_E7DE92_40x100.png") 50% 50% repeat-x;
 	opacity: .5;
 	filter: Alpha(Opacity=50);
 }
-bookcolor .ui-widget-shadow {
+.bookcolor .ui-widget-shadow {
 	margin: -8px 0 0 -8px;
 	padding: 8px;
 	background: #B2A63F url("images/ui-bg_flat_0_B2A63F_40x100.png") 50% 50% repeat-x;
