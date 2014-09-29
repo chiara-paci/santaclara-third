@@ -6,6 +6,7 @@ files common to all Santa Clara applications:
 - JQuery: http://jquery.com/
 - JQuery UI: http://jqueryui.com/
 - JQuery UI Touch Punch http://touchpunch.furf.com/
+- D3 Data-Driven Documents: http://d3js.org/
 
 1. Build package:
    ```
