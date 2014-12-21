@@ -8,15 +8,15 @@ os.chdir(os.path.normpath(os.path.join(os.path.abspath(__file__), os.pardir)))
 
 setup(
     name='santaclara_third',
-    version='0.7.4',
+    version='0.7.6',
     packages=['santaclara_third'],
     package_data={'santaclara_third': [
             'static/css/*.css',
             'static/css/images/*',
             'static/fonts/*',
-            'static/js/ace/*',
-            'static/js/ace/snippets/*',
-            'static/js/*',
+            'static/js/ace/snippets/*.js',
+            'static/js/ace/*.js',
+            'static/js/*.js',
             ]},
     include_package_data=True,
     license='GNU General Public License v3 or later (GPLv3+)',  # example license
