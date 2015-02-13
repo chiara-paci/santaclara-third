@@ -57,7 +57,8 @@
 
 @font-face {
     font-family: Libertine;
-    src:  url('../fonts/LinLibertine_R.woff');
+    /*src:  url('../fonts/LinLibertine_R.woff');*/
+    src:  url('../fonts/LinLibertine_DR.woff');
     font-weight: normal;
     font-style: normal;
 }
