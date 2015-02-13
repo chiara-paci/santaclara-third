@@ -1,0 +1,10 @@
+@font-face{
+    font-family: DidactGothic;
+    src: url('../fonts/DidactGothic.ttf'), 
+         url('../fonts/DidactGothic.eot'); 
+} 
+
+.didact-gothic,
+.richstyle {
+    font: 11pt DidactGothic, 'FreeSans', Helvetica, Arial, sans-serif;
+}
